@@ -4,7 +4,7 @@
 ## 1 - Install zsh
 Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 
-Link https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+[Github repo and installation guide](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 
 ## 2 - Terminal notifier (For mac users)
 terminal-notifier is a command-line tool to send macOS User Notifications, which are available on macOS 10.10 and higher.
@@ -24,11 +24,10 @@ Powerlevel9k is a theme for ZSH which uses Powerline Fonts. It can be used with 
 
 [Installation guide](https://github.com/Powerlevel9k/powerlevel9k)
 
-## Nerdfont complete
+### Nerdfont complete
 Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome ➶, Devicons ➶, Octicons ➶, and others.
-[Github repo and installation guide](https://github.com/ryanoasis/nerd-fonts)
 
-- openssl
+[Github repo and installation guide](https://github.com/ryanoasis/nerd-fonts)
 
 
 ## 6 - Edit zshrc file. 
@@ -40,6 +39,7 @@ Save the changes and restart the terminal. You must see all the styles on it.
 
 ## 7 - Tmux
 Tmux is a terminal multiplexer. It lets you switch easily between several programs in one terminal, detach them (they keep running in the background) and reattach them to a different terminal. And do a lot more.
+
 [Github repo and installation guide](https://github.com/tmux/tmux/wiki)
 
 ## 8 - Edit tmux config file
