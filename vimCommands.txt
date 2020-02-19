@@ -1,0 +1,24 @@
+Copiar y pegar:
+
+- Copiar una linea: (y)
+- Pegar (p)
+- Corar (x)
+- Copiar varias lineas al portapapeles: (:xY*z), donde x es la linea actual y z es la cantidad de lineas a Copiar
+-
+
+Desplazar:
+
+- Ir al final de la linea: ($)
+- Ir al final del archivo: (:$)
+- Ir al comienzo de la linea: (0)
+- Ir al comienzo del archivo: (:0)
+
+Busqueda:
+- Buscar dentro del archivo: (,f)
+- Buscar por nombre de archivo: (,e)
+- Buscar en todos los archivos: (:Ack)
+
+Comentarios
+- Comentar codigo: (\ci)
+
+
