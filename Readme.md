@@ -48,6 +48,9 @@ terminal-notifier is a command-line tool to send macOS User Notifications, which
 ## 3 - Nerdfont complete
 Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons). Specifically to add a high number of extra glyphs from popular 'iconic fonts' such as Font Awesome ➶, Devicons ➶, Octicons ➶, and others.
 
+Install on Mac
+`brew install --cask font-hack-nerd-font`
+
 [Github repo and installation guide](https://github.com/ryanoasis/nerd-fonts)
 
 
