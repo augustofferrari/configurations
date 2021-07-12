@@ -62,7 +62,7 @@ Tmux is a terminal multiplexer. It lets you switch easily between several progra
 
  **Edit tmux config file**
 
-Open the file ./tmux.conf with your favourite editor and paste the content of my tmux.conf file.
+Open the file ~/.tmux.conf with your favourite editor and paste the content of my tmux.conf file.
 Save the changes and restart the terminal.
 To start tmux , just run the command:
 
