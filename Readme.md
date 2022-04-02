@@ -59,6 +59,9 @@ Tmux is a terminal multiplexer. It lets you switch easily between several progra
 
 [Github repo and installation guide](https://github.com/tmux/tmux/wiki)
 
+Edit the file /etc/tmux.conf to set the configurations.
+
+
 
  **Edit tmux config file**
 
